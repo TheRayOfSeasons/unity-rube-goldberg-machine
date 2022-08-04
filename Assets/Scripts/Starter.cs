@@ -10,7 +10,7 @@ public class Starter : MonoBehaviour
     void Start()
     {
         // InvokeRepeating("Test", 0.0f, 2.3f);
-        StartCoroutine(DoSomething());
+        // StartCoroutine(DoSomething());
     }
 
     IEnumerator DoSomething()
